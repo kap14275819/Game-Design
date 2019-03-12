@@ -3,7 +3,7 @@
 ## Space Conqueror 
 
 ### Game overview
-#### Game concept
+#### - Game concept
 - The game concept is a simple space fighter which the player is able to use to roam around space to destroy enemy AI ships within the sector. Once the sector is cleared of all enemy AI, the player is then able to progress to the next one. This also gets progressively harder after each sector.
 #### Genre
 - The genre of this game is an Action Sci-Fi which also has arcade type gameplay.  The arcade type gameplay gives the player
