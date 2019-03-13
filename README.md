@@ -32,7 +32,8 @@ The controls for the player is the arrows keys on the keyboard, which is up and 
 
 ### Artificial Intelligence
 #### Enemy AI
-
+The way the enemy Ai work is that as soon as the player is able to see the enemy AI, the AI then move towards the players ship and once it AI is at a close enough range will then start firing lasers. The lasers that are fired are every 5 seconds. This is so that the player does not take so many hits if they encouter a couple of enemy AI at a time.
 
 ### Game art
 #### Assets
+The art that was used all came from the asset store that unity provides. This includes the player and enemy spacecraft, the background, the asteroids, the lasers and the UI. 
